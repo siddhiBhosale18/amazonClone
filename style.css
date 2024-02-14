@@ -187,7 +187,7 @@ span {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    background-color: rgb(240, 198, 205);
+    background-color: #fff0f3;
 }
 
 .box {
@@ -260,7 +260,7 @@ ul a {
     align-items: center;
 }
 
-foot-logo {
+.foot-logo {
     background-image: url("./images/amazon-logo.png");
     background-size: cover;
     height: 50px;
